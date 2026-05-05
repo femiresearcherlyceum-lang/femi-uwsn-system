@@ -1,0 +1,2 @@
+Full vs No Adapt p-value: 0.001191653115140804
+Full vs No FL p-value: 0.0002810735454297965
